@@ -1,0 +1,56 @@
+a {
+	font-weight: bold;
+}
+ul li {
+	line-height: 1.8em;
+}
+#hhpCenter {
+	padding: 3px;
+}
+.contentHeading {
+	
+}
+.mainCnt {
+	padding: 10px;
+}
+.mainCnt img {
+	padding: 5px;
+}
+.profileImg {
+	float:left;
+	max-width: 100%;
+	height: auto;
+}
+.HHPheadTxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bolder;
+	margin: 0px;
+	margin-left: 15px;
+	padding: 0 0 3px 0;
+}
+.goldHead {
+	background-color: #fec923;
+	padding: 5px;
+}
+.noDot ul {
+	list-style-type: none;
+}
+
+/*styles for table on scholarship page*/
+tr.row_g1 td {
+	background-color: #CCCCCC;
+	padding: 5px;
+	border: 1px solid;
+}
+tr.row_g2 td {
+	background-color: #ffffff;
+	padding: 5px;
+	border: 1px solid;
+}
+
+.socMedIcons {
+	width: 20px;
+	padding: 3px;
+}
+
